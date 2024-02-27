@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🛠️ Skill Set
+## 🛠️ Skill's
 <div align="left">
 <a>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-bottom: 5px;" />
