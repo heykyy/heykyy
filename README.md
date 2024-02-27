@@ -17,23 +17,17 @@ Here are some ideas to get you started:
 
   <p align="center">
     <img width="1000" src="https://media1.tenor.com/m/Fjii2A1kVQQAAAAC/deli-my.gif" alt="MasterHead">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=50&pause=1000&color=9F8FF7&background=56FF5A00&random=false&width=435&lines=Greetings+and+welcome+to+Kylie!" alt="Typing SVG" /></a></p>
-<h1 align="center">
-  <a href="" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=50&pause=1000&color=9F8FF7&background=56FF5A00&random=false&width=435&lines=Welcome+to+Kyla's+!" alt="Typing SVG" /></a>  <a href="" alt="Typing SVG" /></a>
 </h1>
 
-<img align="right" alt="Coding" width="280" src="https://media.tenor.com/Tg23lKjm_EYAAAAi/twilight-sparkle-pixel-art.gif">
+<img align="right" alt="Coding" width="280" src="https://media.tenor.com/MR7k-TyLM7wAAAAi/zebnat-dizzy.gif****">
 
 ## 🗒️ Wanna know more about me?
-&nbsp; &nbsp; ✧  &nbsp; 🔭 I focus more on the visual & aesthetic aspects of digital design.
+&nbsp; &nbsp; ✧  &nbsp; 🔍 All of my projects are available at **[All Projects for AWD](https://github.com/heykyy?tab=repositories)**
 
-&nbsp; &nbsp; ✧  &nbsp; 🌱 I’m currently learning **Python and Javascript**
+&nbsp; &nbsp; ✧  &nbsp; 📫 How to reach me **kylamanalo.km@gmail.com**
 
-&nbsp; &nbsp; ✧  &nbsp; 🔍 All of my projects are available at **[All Projects for AWD](https://github.com/Markiel25?tab=repositories)**
-
-&nbsp; &nbsp; ✧  &nbsp; 📫 How to reach me **markielleones@gmail.com**
-
-&nbsp; &nbsp; ✧ &nbsp; 👀 Know about my experiences from **[Rei's Resume](https://github.com/Markiel25/Portfolio-AWD-FEUTECH)**
+&nbsp; &nbsp; ✧ &nbsp; 👀 Know about my experiences from **[Kyla's Resume](https://github.com/heykyy/AWD-Manalo-Resume)**
 
 <br>
 
@@ -58,16 +52,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-bottom: 5px;" />
 </a>
 <a>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" />
 </a>
 <a>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" style="margin-bottom: 5px;" />
-</a>
-<a>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" style="margin-bottom: 5px;" />
-</a>
-<a>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" />
 </a>
 </div>
 
@@ -75,13 +63,13 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect with me
 <div align="left">
-<a href="https://github.com/Markiel25" target="_blank">
+<a href="https://github.com/heykyy" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/markiel.leones.18" target="_blank">
+<a href="https://www.facebook.com/Heykylagean/" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/drei.kijue/" target="_blank">
+<a href:"https://www.instagram.com/heykyy/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
