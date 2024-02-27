@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 
   <p align="center">
-  <a href="https://Markiel25.io">
-    <img width="1000" src="https://media1.tenor.com/m/WOoVLVRav3AAAAAC/mario-bros-bedroom.gif" alt="MasterHead">
-  </a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=.+.+%E2%87%A2Hi%2C+This+is+Rei.+%EA%99%B3%F0%9F%92%AD%E2%8A%B9" alt="Typing SVG" /></a>
-</p>
+    <img width="1000" src="https://media1.tenor.com/m/Fjii2A1kVQQAAAAC/deli-my.gif" alt="MasterHead">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=50&pause=1000&color=9F8FF7&background=56FF5A00&random=false&width=435&lines=Greetings+and+welcome+to+Kylie!" alt="Typing SVG" /></a></p>
 <h1 align="center">
   <a href="" alt="Typing SVG" /></a>
 </h1>
